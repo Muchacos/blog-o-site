@@ -25,7 +25,7 @@ SECRET_KEY = '7y@ji%5o&pe3ey9(3m57!a6*qk*7b@5d!a&clrbj=!ce9n*yv)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'muchacos.pynhonanywhere.com']
+ALLOWED_HOSTS = ['muchacos.pythonanywhere.com', 'localhost', '127.0.0.1', ]
 
 
 # Application definition
